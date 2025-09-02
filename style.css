@@ -1,0 +1,16 @@
+.r{
+    float: right;
+    margin-top: 20px;
+}
+a{
+    text-decoration: black;
+}
+.h{
+    width: 100%;
+    background-color: rgb(156, 4, 4);
+    padding: 10px; 
+}
+.f{
+    background-color: rgb(156, 4, 4);
+    padding: 10px;
+}
